@@ -19,10 +19,10 @@ patch:
     # 选择皮肤，亮色与暗色主题
     #color_scheme: purity_of_form_custom
     #color_scheme_dark: purity_of_form_custom
-    color_scheme: mac
-    color_scheme_dark: mac
-    #color_scheme: solarized_rock 
-    #color_scheme_dark: solarized_dark
+    # color_scheme: mac
+    # color_scheme_dark: mac
+    color_scheme: solarized_rock 
+    color_scheme_dark: solarized_dark
   
     # 预设选项：（可被皮肤覆盖；如果皮肤没写，则默认使用这些属性。）
     text_orientation: horizontal  # horizontal | vertical
